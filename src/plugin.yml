@@ -1,0 +1,10 @@
+name: EnderChest
+author: DqmnJyre
+version: 1.0
+description: Plugin d'enderchest
+main: fr.thejyre4rf.enderchest.Main
+
+commands:
+ purplesac:
+  permission: enderchest.command
+  description: Permet d'ouvrir l'enderchest
